@@ -18,7 +18,7 @@ storage:
       mode: disable
 
 frontend:
-  dir: /etc/dex/bootstra[/dex/web
+  dir: /etc/dex/bootstrap/dex/web
   theme: coreos
 
 # Configuration for the HTTP endpoints.
